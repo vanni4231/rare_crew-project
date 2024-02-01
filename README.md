@@ -2,15 +2,26 @@
 
 A new Flutter project.
 
-## Getting Started
+# rare_crew-app
+This project is a simple flutter application that provides user authentication using Firebase Authentication. Users can sign up for a new account, log in with their credentials, and access a dashboard where they can view and edit their profile information and manage items locally.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+-User Authentication: New users can sign up for an account and existing users can log in using their credentials.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Dashboard: Upon successful login, users are directed to a dashboard where they can manage their profile and items.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Profile Management: Users can view their profile information.
+
+-Item Management: Users can add, edit, and delete items locally within the application.
+
+
+## Tech Stack
+
+1.Flutter
+2.Dart
+3.MVVM
+4.Riverpod
+5.State Management
+5.Firebase integration
+6.User Authentication
