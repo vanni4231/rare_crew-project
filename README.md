@@ -2,7 +2,6 @@
 
 A new Flutter project.
 
-# rare_crew-app
 This project is a simple flutter application that provides user authentication using Firebase Authentication. Users can sign up for a new account, log in with their credentials, and access a dashboard where they can view and edit their profile information and manage items locally.
 
 ## Features
