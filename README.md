@@ -12,6 +12,8 @@ This project is a simple flutter application that provides user authentication u
 
 -Profile Management: Users can view their profile information.
 
+-logout: In the dashboard you can logout to login and registration screen.
+
 -Item Management: Users can add, edit, and delete items locally within the application.
 
 
